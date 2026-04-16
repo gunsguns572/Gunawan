@@ -1,0 +1,1 @@
+{\n  "name": "astro-project",\n  "version": "1.0.0",\n  "description": "An Astro project setup",\n  "main": "index.js",\n  "scripts": {\n    "dev": "astro dev",\n    "build": "astro build",\n    "preview": "astro preview"\n  },\n  "dependencies": {\n    "astro": "latest"\n  },\n  "devDependencies": {},\n  "keywords": [],\n  "author": "",\n  "license": "ISC"\n}
